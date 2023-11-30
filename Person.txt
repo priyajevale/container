@@ -1,3 +1,6 @@
 Welcome to Person details:
 Person Name:
 phone number:                                               
+
+Email-id;
+Address;
